@@ -1,2 +1,2 @@
-# 2nd_lab
-this is my second lab of github
+# Software Lab created by Tanmay , Vinayak , Ishant
+@Add , commit , push
